@@ -1,0 +1,17 @@
+Enter the names of your family members along with their age (FORMAT: FirstName_Age): 
+OM_49
+Do you want to add more names. If yes press 1, else press any other number: 
+1
+Enter the names of your family members along with their age (FORMAT: FirstName_Age): 
+nisha_48
+Do you want to add more names. If yes press 1, else press any other number: 
+1
+Enter the names of your family members along with their age (FORMAT: FirstName_Age): 
+yashu_22
+Do you want to add more names. If yes press 1, else press any other number: 
+1
+Enter the names of your family members along with their age (FORMAT: FirstName_Age): 
+tanish_19
+Do you want to add more names. If yes press 1, else press any other number: 
+3
+tanish_19 yashu_22 nisha_48 OM_49 
